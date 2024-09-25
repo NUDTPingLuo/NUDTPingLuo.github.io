@@ -9,7 +9,7 @@
 title                    : "罗平"
 description              : "分布式机器学习"
 repository               : "NUDTPingLuo/NUDTPingLuo.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : True
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "罗平"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/头像.png"
   bio              : "国防科技大学"
   location         : "湖南 长沙"
   employer         : #"Hefei General Machinery Research Institute"
