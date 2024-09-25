@@ -17,25 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖南长沙的 国防科技大学 计算机学院学院，我的导师是李东升教授，责任导师是孙涛教授。硕士毕业于海南海口的 海南大学 计算机科学与技术学院。本科毕业于海南海口的 海南大学 网络空间安全学院（密码学院）。包括合著，已发表学术论文点击此处即可查询：
+我将博士毕业于湖南长沙的 国防科技大学 计算机学院学院，我的导师是李东升教授，责任导师是孙涛教授。已发表的学术论文：
  <a href='https://scholar.google.com/citations?user=RP4z8JAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
+- 人工智能
+- 机器学习
+- 分布式
+- 算法优化
+- 联邦学习
   
-
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+- *2023.09 - 至今*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 国防科技大学 计算机学院, 湖南长沙, 博士 
+- *2020.09 - 2023.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 海南大学 计算机科学与技术学院, 海南海口, 硕士 
+- *2016.09 - 2020.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 海南大学 网络空间安全学院（密码学院）, 海南海口, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
