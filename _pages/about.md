@@ -31,7 +31,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2023.09 - 至今*, <a href="https://www.hust.edu.cn/"><img class="png" src="/images/nudt_logo.svg" width="23pt"></a> 国防科技大学 计算机学院, 湖南长沙, 博士 
+- *2023.09 - 至今*, <a href="https://www.nudt.edu.cn/"><img class="png" src="/images/NUDT_logo.png" width="23pt"></a> 国防科技大学 计算机学院, 湖南长沙, 博士 
 - *2020.09 - 2023.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 海南大学 计算机科学与技术学院, 海南海口, 硕士 
 - *2016.09 - 2020.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 海南大学 网络空间安全学院（密码学院）, 海南海口, 本科
  
