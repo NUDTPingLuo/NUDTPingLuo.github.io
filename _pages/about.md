@@ -41,14 +41,14 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 论文
 
 ### 英文
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAFL 2022</div><img src='images/AAFL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Jieren Cheng, `Ping Luo*`, N. Xiong, Jie Wu. AAFL: Asynchronous-Adaptive Federated Learning in Edge-Based Wireless Communication Systems for Countering Communicable Infectious Diseasess. *IEEE Journal on Selected Areas in Communications*, 2022, 40(11): 3172-3190. (JCR: Q1; IF: 16.4)  
+- Jieren Cheng, `Ping Luo*`, N. Xiong, Jie Wu. AAFL: Asynchronous-Adaptive Federated Learning in Edge-Based Wireless Communication Systems for Countering Communicable Infectious Diseasess. *IEEE Journal on Selected Areas in Communications*, 2022, 40(11): 3172-3190. (JCR: Q1; CCF:A; TOP; IF: 16.4)  
 [[网页]](https://ieeexplore.ieee.org/document/9908552) [[预览]](https://github.com/NUDTPingLuo/Papers/blob/main/PDF/AAFL_Asynchronous-Adaptive_Federated_Learning_in_Edge-Based_Wireless_Communication_Systems_for_Countering_Communicable_Infectious_Diseasess.pdf)
 
 </div>
