@@ -16,8 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+在广袤的中华大地上，存在着这样一个阿卡林省，鄱阳湖静静地铺在它的北部。1998年农历6月17的这天下午，湖面上万里无云，岸边的一个村庄上正在酝酿着一个奇迹！于是乎，天空一声巨响，爷们闪亮登场！
 
-我将博士毕业于湖南长沙的国防科技大学计算机学院。  
+博士即将（大概率是要延毕）毕业于湖南长沙的国防科技大学计算机学院。  
 我的大导是李东升研究员（[Google Scholar 主页](https://scholar.google.com/citations?user=_WrK108AAAAJ&hl=zh-CN)），  
 小导是孙涛副研究员（[个人主页](https://nudtsuntao1991.github.io/)）。
 
