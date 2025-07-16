@@ -20,7 +20,8 @@ redirect_from:
 我将博士毕业于湖南长沙的国防科技大学计算机学院。  
 我的大导是李东升研究员（[Google Scholar 主页](https://scholar.google.com/citations?user=_WrK108AAAAJ&hl=zh-CN)），  
 小导是孙涛副研究员（[个人主页](https://nudtsuntao1991.github.io/)）。
-已发表的学术论文：
+
+个人已发表的学术论文：
 <a href='https://scholar.google.com/citations?user=RP4z8JAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
