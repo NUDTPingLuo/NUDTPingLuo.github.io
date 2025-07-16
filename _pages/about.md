@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖南长沙的 国防科技大学 计算机学院学院，我的导师是李东升研究员，责任导师是孙涛副研究员。已发表的学术论文：
+我将博士毕业于湖南长沙的国防科技大学计算机学院。  
+我的大导是李东升研究员（[Google Scholar 主页](https://scholar.google.com/citations?user=_WrK108AAAAJ&hl=zh-CN)），  
+小导是孙涛副研究员（[个人主页](https://nudtsuntao1991.github.io/)）。
+已发表的学术论文：
 <a href='https://scholar.google.com/citations?user=RP4z8JAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
@@ -45,7 +48,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 - Jieren Cheng, `Ping Luo*`, N. Xiong, Jie Wu. AAFL: Asynchronous-Adaptive Federated Learning in Edge-Based Wireless Communication Systems for Countering Communicable Infectious Diseasess. *IEEE Journal on Selected Areas in Communications*, 2022, 40(11): 3172-3190. (JCR: Q1; IF: 16.4)  
-[[网页]](https://ieeexplore.ieee.org/document/9908552) [[预览]](https://github.com/NUDTPingLuo/Papers/blob/main/PDF/AAFL_Asynchronous-Adaptive_Federated_Learning_in_Edge-Based_Wireless_Communication_Systems_for_Countering_Communicable_Infectious_Diseasess.pdf) [[下载]](/PDF/AAFL_Asynchronous-Adaptive_Federated_Learning_in_Edge-Based_Wireless_Communication_Systems_for_Countering_Communicable_Infectious_Diseasess.pdf)
+[[网页]](https://ieeexplore.ieee.org/document/9908552) [[预览]](https://github.com/NUDTPingLuo/Papers/blob/main/PDF/AAFL_Asynchronous-Adaptive_Federated_Learning_in_Edge-Based_Wireless_Communication_Systems_for_Countering_Communicable_Infectious_Diseasess.pdf)
 
 </div>
 </div>
