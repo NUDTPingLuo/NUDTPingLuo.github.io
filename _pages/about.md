@@ -43,7 +43,7 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文
+# 📝 论文专利
 
 ### 英文
 ---
