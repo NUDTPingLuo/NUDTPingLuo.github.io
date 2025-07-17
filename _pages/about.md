@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 🧑‍🎓 简介
+# 🧑 简介
 在广袤的中华大地上，存在着这样一个阿卡林省，鄱阳湖静静地铺在它的北部。1998年农历6月17的这天下午，湖面上万里无云，岸边的一个村庄上正在酝酿着一个奇迹！于是乎，天空一声巨响，爷们闪亮登场！
 
 博士即将（预计2027）毕业于湖南长沙的国防科技大学计算机学院。  
