@@ -56,7 +56,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FedVeca TPDS2024</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FedVeca TPDS2024</div><img src='images/FedVeca.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Luo, Ping`, Cheng, Jieren, Xiong, N., Liu, Zhenhao, Wu, Jie. AFedVeca: Federated Vectorized Averaging on Non-IID Data With Adaptive Bi-Directional Global Objective. *IEEE Transactions on Parallel and Distributed Systems*. 2024, 35(11): 2102-2113. (JCR:Q1; CCF:A; TOP; IF:5.6)  
