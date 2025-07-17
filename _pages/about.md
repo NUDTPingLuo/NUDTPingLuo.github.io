@@ -68,7 +68,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BHerd TC2025</div><img src='images/BHerd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Luo Ping, Deng Xiaoge, Wen Ziqing, Sun Tao, Li Dongsheng. BHerd: Accelerating Federated Learning by Selecting Beneficial Herd of Local Gradients. *IEEE Transactions on Computers*. 2025. (JCR:Q1; CCF:A; IF:3.8)  
+-	`Luo Ping`, Deng Xiaoge, Wen Ziqing, Sun Tao, Li Dongsheng. BHerd: Accelerating Federated Learning by Selecting Beneficial Herd of Local Gradients. *IEEE Transactions on Computers*. 2025. (JCR:Q1; CCF:A; IF:3.8)  
 [[网页]](https://ieeexplore.ieee.org/abstract/document/11053664) [[预览]](https://github.com/NUDTPingLuo/Papers/blob/main/PDF/BHerd_Accelerating_Federated_Learning_by_Selecting_Beneficial_Herd_of_Local_Gradients.pdf) 
 
 </div>
