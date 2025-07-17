@@ -65,7 +65,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BHerd TC2025</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BHerd TC2025</div><img src='images/BHerd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Luo Ping, Deng Xiaoge, Wen Ziqing, Sun Tao, Li Dongsheng. BHerd: Accelerating Federated Learning by Selecting Beneficial Herd of Local Gradients. *IEEE Transactions on Computers*. 2025. (JCR:Q1; CCF:A; IF:3.8)  
@@ -87,20 +87,15 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+- *2022.11* 获得 中国高校计算机大赛-人工智能创意赛 `一等奖`  [[证书]](https://github.com/NUDTPingLuo/Papers/blob/main/Others/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%88%9B%E6%84%8F%E8%B5%9B%E8%AF%81%E4%B9%A6.pdf) 
 
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+- *2025.7*, 国防科技大学并行与分布式计算重点实验室组会, 湖南长沙, 受邀报告
+其实这里是一片荒芜的平原。
 
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+- *2021.06 - 2021.09*, 牛津海南区块链研究院, 海南澄迈
