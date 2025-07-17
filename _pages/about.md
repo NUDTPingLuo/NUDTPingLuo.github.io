@@ -16,16 +16,17 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 🧑‍🎓 简介
 在广袤的中华大地上，存在着这样一个阿卡林省，鄱阳湖静静地铺在它的北部。1998年农历6月17的这天下午，湖面上万里无云，岸边的一个村庄上正在酝酿着一个奇迹！于是乎，天空一声巨响，爷们闪亮登场！
 
-博士即将（大概率是要延毕）毕业于湖南长沙的国防科技大学计算机学院。  
-我的大导是李东升研究员（[Google Scholar 主页](https://scholar.google.com/citations?user=_WrK108AAAAJ&hl=zh-CN)），  
+博士即将（预计2027）毕业于湖南长沙的国防科技大学计算机学院。  
+大导是李东升研究员（[Google Scholar 主页](https://scholar.google.com/citations?user=_WrK108AAAAJ&hl=zh-CN)），  
 小导是孙涛副研究员（[个人主页](https://nudtsuntao1991.github.io/)）。
 
 个人已发表的学术论文：
 <a href='https://scholar.google.com/citations?user=RP4z8JAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
-我的研究领域包括：
+研究领域包括：
 - 联邦学习
 - 人工智能
 - 机器学习
@@ -46,7 +47,7 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAFL 2022</div><img src='images/AAFL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAFL JSAC2022</div><img src='images/AAFL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Jieren Cheng, `Ping Luo*`, N. Xiong, Jie Wu. AAFL: Asynchronous-Adaptive Federated Learning in Edge-Based Wireless Communication Systems for Countering Communicable Infectious Diseasess. *IEEE Journal on Selected Areas in Communications*, 2022, 40(11): 3172-3190. (JCR: Q1; CCF:A; TOP; IF: 16.4)  
@@ -55,11 +56,11 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FedVeca TPDS2024</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+-	`Luo, Ping`, Cheng, Jieren, Xiong, N., Liu, Zhenhao, Wu, Jie. AFedVeca: Federated Vectorized Averaging on Non-IID Data With Adaptive Bi-Directional Global Objective. *IEEE Transactions on Parallel and Distributed Systems*. 2024, 35(11): 2102-2113. (JCR:Q1; CCF:A; TOP; IF:5.6)  
+[[网页]](https://ieeexplore.ieee.org/abstract/document/10664503) [[预览]](https://github.com/NUDTPingLuo/Papers/blob/main/PDF/FedVeca_Federated_Vectorized_Averaging_on_Non-IID_Data_With_Adaptive_Bi-Directional_Global_Objective.pdf)
 
 </div>
 </div>
