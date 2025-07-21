@@ -100,5 +100,12 @@ redirect_from:
 
 <span class='anchor' id='-gzsx'></span>
 
+# 📑 学术服务
+- 审稿期刊包括：
+  - *Computational Intelligence*（Wiley）
+  - *Physical Communication*（Elsevier）
+
+<span class='anchor' id='-gzsx'></span>
+
 # 💻 工作实习
 - *2021.06 - 2021.09*, 牛津海南区块链研究院, 海南澄迈
